@@ -1,0 +1,36 @@
+
+1.What is Software
+
+---> Software : its a piece of code written in a statment/token which having some task to perform.
+
+2.Software Engineering :
+
+---> Software Engineering is the process of designing, developing, testing and maintainig software. Software engineering includes a variety of techniques, tools and methodoloies , including reuirements analysis, design, testing and maintenance.
+
+* How many type of software are there??
+
+---> Three type software
+   1) System Software     --> Hardware ( webcam drivers).
+   2) Programing Software --> Compiler,interper,assembler,remov,move,delete.
+   3) Web Application     --> Software that runs in your web browser. 
+
+
+* SDLC : Software Development Life Cycle
+
+---> Six phases of SDLC
+   1) Requirement static
+                /Dynamic  : Requirement is the most crucial step in creating a successful system, during this phase you decide exactly what you want to do and the problems 
+                           you are trying to slove.
+
+   2) Analysis            : Software analysis is the process of collating factual data, identify software flaws, understanding the               
+                           information architecture and developing solutions to overcome the weaknesses of the project.
+
+   3) Desiging            : Identifies the design architecture of the project and all functional and non-functional requiments of the                                                              
+                           project.
+
+   4) Coding /Implement   : The developers build the cods, test, integrate and manage
+
+   5) Testing             : After devlopment testing helps to find bugs and errors of the software.
+
+   6) Maintaince          : In the maintenace stage, users may find bugs and errors that were missed in the ealier testing phase. These bugs need to be fixed for better  
+                           user experience and retention.
